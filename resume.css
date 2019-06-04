@@ -1,0 +1,13 @@
+.name{
+	text-transform: uppercase;
+}
+
+body{
+	font-family: times new roman;
+	line-height: 1.4;
+	background-color: aliceblue;
+}
+
+h3{
+	font-style:italic;
+}
